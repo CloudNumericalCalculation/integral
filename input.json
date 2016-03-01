@@ -1,0 +1,12 @@
+[
+{
+	"name": "f",
+	"label": "函数",
+	"description": "请在此输入要计算积分的函数"
+},
+{
+	"name": "variables",
+	"label": "积分变量",
+	"description": "要积分的变量，一个一行"
+}
+]
